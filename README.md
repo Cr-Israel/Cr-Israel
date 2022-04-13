@@ -1,9 +1,20 @@
-Olá! Eu sou o Carlos Israel
+**Olá! Eu sou o Carlos Israel**
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estou estudando JavaScript
-- ⚡ Futuro Dev FullStack
 
+```JavaScript
+function Sobre() {
+ const name = "Carlos Israel"
+ let age = 18
+ 
+ let occupationArea = "Front-end"
+ const nearFuture = "Full-stack"
+ 
+ const about = ["Incomum", "Inovador", "Pesquisador", "Curioso"]
+ let languages = ["JavaScript", "React.JS"] 
+}
+```
+
+## **Estatístias:**
   <a href="https://github.com/Cr-Israel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cr-Israel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr-Israel&layout=compact&langs_count=7&theme=dark"/>
