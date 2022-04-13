@@ -1,6 +1,6 @@
 **Olá! Eu sou o Carlos Israel**
 
-<img align="right" width="300" src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"/>
+<img align="right" width="300" height="270" src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif"/>
 
 ```JavaScript
 function Sobre() {
