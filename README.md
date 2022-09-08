@@ -5,9 +5,9 @@
 ```JavaScript
 function Sobre() {
  const name = "Carlos Israel";
- let age = 18;
+ let age = 19;
  
- let occupationArea = "Front-end";
+ let occupationArea = "Back-end";
  const nearFuture = "Full-stack";
  
  const about = ["Determinado", "Focado", "Pesquisador", "Curioso", "Estudioso", "Reponsável"];
