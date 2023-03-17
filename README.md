@@ -7,7 +7,7 @@ function Sobre() {
  const name = "Carlos Israel";
  let age = 19;
  
- let occupationArea = "Back-end";
+ let occupationArea = "Back-End";
  const nearFuture = "Full-stack";
  
  const about = ["Determinado", "Focado", "Pesquisador", "Curioso", "Estudioso", "Reponsável"];
