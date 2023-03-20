@@ -11,7 +11,7 @@ function Sobre() {
  const nearFuture = "Full-stack";
  
  const about = ["Determinado", "Focado", "Pesquisador", "Curioso", "Estudioso", "Reponsável"];
- let languages = ["JavaScript", "ReactJS", "NodeJS"];
+ let languages = ["JavaScript", "Node.js", "ReactJS"];
 };
 ```
 
