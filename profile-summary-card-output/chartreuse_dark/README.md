@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Cr-Israel/Cr-Israel/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
-```
-
-    
