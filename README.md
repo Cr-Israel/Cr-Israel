@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 About Me:
-🌱 I’m currently learning<br>🚀 I’m looking to collaborate on open source projects<br>💬 Ask me about anything<br>⚡ Let's make an awesome future
+🧠 I'm Carlos Israel<br> 🌱 I’m currently learning<br>🚀 I’m looking to collaborate on open source projects<br>💬 Ask me about anything<br>⚡ Let's make an awesome future
 
 
 ## 🌐 Socials:
