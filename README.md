@@ -3,14 +3,13 @@
 ```JavaScript
 function Sobre() {
  const name = "Carlos Israel";
- let age = 20;
+ let age = 21;
  
  let occupationArea = "Back-End";
- const nearFuture = "Full-stack";
  
  const about = ["Determinado", "Focado", "Pesquisador", "Curioso", "Estudioso", "Reponsável"];
  let languages = ["JavaScript"];
- let stack = ["Node.js", "TypeScript", "Fastify", "Express", "MongoDB", "MySQL", "Vitest"]
+ let stack = ["Node.js", "TypeScript", "Fastify", "Nest.js", "PostgreSQL", "MongoDB", "Vitest"]
 };
 ```
 
