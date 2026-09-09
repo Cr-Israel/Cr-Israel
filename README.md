@@ -34,12 +34,3 @@ Atualmente estudando sistemas distribuídos e observabilidade (OpenTelemetry, tr
 **Mensageria & Observabilidade** · RabbitMQ · Kong · Jaeger / OpenTelemetry
 
 **Infra & Qualidade** · Docker · GitHub Actions · Vitest · Swagger / OpenAPI
-
----
-
-## GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cr-Israel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Carlos Israel" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr-Israel&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</p>
