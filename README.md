@@ -29,7 +29,9 @@ Atualmente estudando sistemas distribuídos e observabilidade (OpenTelemetry, tr
 
 **Backend** · Node.js · NestJS · Fastify · Prisma
 
-**Dados** · PostgreSQL · MongoDB · Redis
+**Banco de Dados** · PostgreSQL · MongoDB · Redis
+
+**Dados** · Pandas
 
 **Mensageria & Observabilidade** · RabbitMQ · Kong · Jaeger / OpenTelemetry
 
