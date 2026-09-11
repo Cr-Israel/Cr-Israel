@@ -6,8 +6,6 @@ Construo APIs e sistemas backend com foco em arquitetura sustentável: Clean Arc
 testes automatizados e comunicação assíncrona entre serviços. Trabalho principalmente com
 **NestJS**, **Fastify**, **PostgreSQL** e **Docker**.
 
-Atualmente estudando sistemas distribuídos e observabilidade (OpenTelemetry, tracing).
-
 🌐 **[carlosisrael.dev](https://carlosisrael.dev)** · 💼 **[LinkedIn](https://www.linkedin.com/in/carlos-israel/)** · ✉️ carlosisrael08@hotmail.com
 
 ---
